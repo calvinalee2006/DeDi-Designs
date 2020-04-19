@@ -1,0 +1,16 @@
+/* index page */
+
+.logo {
+    background-image: url("./resource./pictures./Logo.jpg");
+    background-size: cover;
+    background-position:center;
+    background-repeat:none;
+    height:60rem;
+};
+
+.header {
+    text-align:center;
+    padding: 20px;
+    border:5px;
+    font-size: 30px;
+}
